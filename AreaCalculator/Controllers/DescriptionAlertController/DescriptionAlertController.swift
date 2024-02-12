@@ -9,7 +9,7 @@ import UIKit
 import ShapeAreaFramework
 final class DescriptionAlertController: UIAlertController {
     override var preferredStyle: UIAlertController.Style {
-        .alert
+        .actionSheet
     }
     init(circle: CircleShape) {
         super.init(nibName: .none, bundle: .none)
