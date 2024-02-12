@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "shapeareaframework",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AlexanderGorelkin/ShapeAreaFramework.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0f44044998c4145989bc513608c0509863540849"
+      }
+    }
+  ],
+  "version" : 2
+}
